@@ -1,45 +1,58 @@
 # BeeWise
 Simple,Smart and Bee-utiful Budgeting
-# BeeWise 
 
 
 ### Team Name: Bumble Bees
 
 
 ### Team Members
-- Member 1: Anjithamol A - College of Engineering and Management, Punnapra
-- Member 2: Fazeela S - College of Engineering and Management, Punnapra
-- Member 3: Praveena Jude - College of Engineering and Management, Punnapra
+- Anjithamol A - College of Engineering and Management, Punnapra
+- Fazeela S - College of Engineering and Management, Punnapra
+- Praveena Jude - College of Engineering and Management, Punnapra
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+BeeWise is an expense tracker web application that allows users to track their daily, weekly, and monthly expenses. It helps individuals manage their finances more efficiently by categorizing their expenses, setting goals, and tracking progress toward those goals.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Keeping track of daily expenses and sticking to a budget can be overwhelming. Many people find it challenging to manage their finances without a clear and simple way to track their spending and savings goals.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+BeeWise makes budgeting easy and fun by categorizing your expenses (food, rent, etc.), tracking your progress in real-time, and sending helpful reminders. With BeeWise, you'll always be aware of where your money is going, and you’ll be one step closer to achieving your financial goals.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: HTML, CSS, JavaScript
+- Frameworks used: Django
+- Libraries used: Chart.js, jQuery
+- Tools used: PostgreSQL, Git, Visual Studio Code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Not applicable for this web-based project
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+To install and set up the project:
+1. Clone the repository:
+   git clone https://github.com/yourusername/BeeWise.git
+   cd BeeWise
+2. Create a virtual environment and activate it:
+   python -m venv venv
+   source venv/bin/activate  # For Mac/Linux
+   venv\Scripts\activate  # For Windows
+3. Install dependencies:
+   pip install -r requirements.txt
+4. Set up PostgreSQL and configure database settings in settings.py of Django.
+5. Run migrations:
+   python manage.py migrate
+6. Create a superuser for the admin panel:
+   python manage.py createsuperuser
+
+
 
 # Run
 [commands]
