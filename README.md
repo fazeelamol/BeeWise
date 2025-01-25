@@ -1,16 +1,15 @@
 # BeeWise
-Expense tracker: Simple,Smart and Bee-utiful Budgeting
-# [Project Name] 🎯
+Simple,Smart and Bee-utiful Budgeting
+# BeeWise 
 
 
-## Basic Details
-### Team Name: [Name]
+### Team Name: Bumble Bees
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Anjithamol A - College of Engineering and Management, Punnapra
+- Member 2: Fazeela S - College of Engineering and Management, Punnapra
+- Member 3: Praveena Jude - College of Engineering and Management, Punnapra
 
 ### Hosted Project Link
 [mention your project hosted project link here]
