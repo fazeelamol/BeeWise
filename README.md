@@ -1,5 +1,5 @@
 # BeeWise
-Simple,Smart and Bee-utiful Budgeting
+*Simple,Smart and Bee-utiful Budgeting*
 
 
 ### Team Name: Bumble Bees
@@ -39,35 +39,35 @@ For Software:
 To install and set up the project:
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/BeeWise.git
-   cd BeeWise
+   *git clone https://github.com/yourusername/BeeWise.git
+   cd BeeWise*
 
-2. Create a virtual environment and activate it:
+3. Create a virtual environment and activate it:
 
-   python -m venv venv
+   *python -m venv venv
    source venv/bin/activate  # For Mac/Linux
-   venv\Scripts\activate  # For Windows
+   venv\Scripts\activate  # For Windows*
 
 5. Install dependencies:
 
-   pip install -r requirements.txt
+   *pip install -r requirements.txt*
 
 7. Set up PostgreSQL and configure database settings in settings.py of Django.
 
 8. Run migrations:
 
-   python manage.py migrate
+   *python manage.py migrate*
 
 10. Create a superuser for the admin panel:
 
-    python manage.py createsuperuser
+    *python manage.py createsuperuser*
 
 
 
 # Run
 To start the development server:
 
-python manage.py runserver
+*python manage.py runserver*
 
 Then, go to http://127.0.0.1:8000/ to see your BeeWise app in action!
 
