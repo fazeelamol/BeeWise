@@ -86,8 +86,8 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Architecture
+![image alt](https://github.com/fazeelamol/BeeWise/blob/main/Untitled%20Diagram.drawio.png?raw=true)
 
 
 # Build Photos
