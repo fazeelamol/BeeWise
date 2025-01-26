@@ -76,8 +76,8 @@ Then, go to http://127.0.0.1:8000/ to see your BeeWise app in action!
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://github.com/fazeelamol/BeeWise/blob/main/SAVE_20250126_101053.png?raw=true)
+*Screenshot of the database*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
