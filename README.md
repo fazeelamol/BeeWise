@@ -102,7 +102,7 @@ Architecture
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://github.com/fazeelamol/BeeWise/blob/117934aca679edfdc5a97e8b3c537bcdee0a3f41/2025-01-26_10-58-12-232.mp4]
 *Explain what the video demonstrates*
 
 # Additional Demos
