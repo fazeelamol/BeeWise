@@ -38,24 +38,39 @@ For Software:
 # Installation
 To install and set up the project:
 1. Clone the repository:
+
    git clone https://github.com/yourusername/BeeWise.git
    cd BeeWise
+
 2. Create a virtual environment and activate it:
+
    python -m venv venv
    source venv/bin/activate  # For Mac/Linux
    venv\Scripts\activate  # For Windows
-3. Install dependencies:
+
+5. Install dependencies:
+
    pip install -r requirements.txt
-4. Set up PostgreSQL and configure database settings in settings.py of Django.
-5. Run migrations:
+
+7. Set up PostgreSQL and configure database settings in settings.py of Django.
+
+8. Run migrations:
+
    python manage.py migrate
-6. Create a superuser for the admin panel:
-   python manage.py createsuperuser
+
+10. Create a superuser for the admin panel:
+
+    python manage.py createsuperuser
 
 
 
 # Run
-[commands]
+To start the development server:
+
+python manage.py runserver
+
+Then, go to http://127.0.0.1:8000/ to see your BeeWise app in action!
+
 
 ### Project Documentation
 For Software:
@@ -74,21 +89,10 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
@@ -105,9 +109,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Anjithamol A: Frontend design and implementation, dashboard, expense forms.
+- Fazeela S: Backend setup, database management, API development.
+- Praveena Jude: Frontend design and implementation and documentation
 
 ---
 Made with ❤️ at TinkerHub
